@@ -1,0 +1,2 @@
+# Student_Score_Prediction
+Machine learning project for Student_Score_prediction

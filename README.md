@@ -1,21 +1,21 @@
-# 🎓 Student Score Prediction using Machine Learning
+#  Student Score Prediction using Machine Learning
 
-## 📌 Project Overview
+##  Project Overview
 
 This project predicts a student's expected exam score based on study-related factors using Machine Learning.
 
 The system analyzes various inputs such as:
 
-* 📚 Hours Studied
-* 🏫 Attendance Percentage
-* 😴 Sleep Hours
-* 📝 Assignments Completed
+*  Hours Studied
+*  Attendance Percentage
+*  Sleep Hours
+*  Assignments Completed
 
 and predicts the student's score through an interactive Flask web application.
 
 ---
 
-## 🚀 Features
+##  Features
 
 ✅ Dataset Generation
 
@@ -39,7 +39,7 @@ and predicts the student's score through an interactive Flask web application.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Category         | Technologies        |
 | ---------------- | ------------------- |
@@ -54,7 +54,7 @@ and predicts the student's score through an interactive Flask web application.
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 Student_Score_Prediction/
@@ -83,7 +83,7 @@ Student_Score_Prediction/
 
 ---
 
-## 📊 Model Evaluation
+##  Model Evaluation
 
 The model is evaluated using:
 
@@ -93,7 +93,7 @@ The model is evaluated using:
 
 ---
 
-## 🌐 Running the Application
+##  Running the Application
 
 ### Install Dependencies
 
@@ -121,7 +121,7 @@ http://127.0.0.1:5000
 
 ---
 
-## 🎯 Sample Prediction
+##  Sample Prediction
 
 | Feature               | Value |
 | --------------------- | ----- |
